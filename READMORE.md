@@ -13,3 +13,5 @@ cat << 'EOF' > README.md
   - deepseek-coder:latest
   - hf.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive:IQ4_NL
 EOF
+#Updating, saving, commit, and push to github 9/17/2026
+#Updating, saving, commit, and push to github 9/18/2026
