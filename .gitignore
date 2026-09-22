@@ -1,0 +1,21 @@
+# Environments & Cache
+.venv/
+__pycache__/
+*.py[cod]
+.env
+
+# PyCharm Configuration
+.idea/
+
+# Machine Learning Models & Large Files
+*.pt
+*.pth
+*.bin
+*.onnx
+*.safetensors
+*.h5
+*.ckpt
+*.pb
+data/
+outputs/
+logs/
